@@ -44,5 +44,5 @@ Given the `root` of a **binary tree** and an integer `targetSum`, return the **n
 ## 🛠️ Constraints
 
 - The number of nodes in the tree is in the range `[0, 1000]`
-- `-1^09 <= Node.val <= 10^9`
+- `-10^9 <= Node.val <= 10^9`
 - `-1000 <= targetSum <= 1000`
